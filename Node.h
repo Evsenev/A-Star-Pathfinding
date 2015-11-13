@@ -9,7 +9,6 @@
 @property int x, y;
 @property BOOL isBlock;
 -(void)setState:(State)state;
--(void)open;
 -(NSArray *)getNeighbors;
 -(double)distanceTo:(Node *)toNode;
 -(void)setX:(int)x andY:(int)y;
