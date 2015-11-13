@@ -136,9 +136,4 @@ static AppDelegate *appDelegate;
     double powY = pow(toNode.y - fromNode.y, 2);
     return sqrt(powX + powY);
 }
-
--(void)open {
-    
-}
-
 @end
