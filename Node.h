@@ -16,5 +16,3 @@
 +(double)distanceFrom:(Node *)fromNode to:(Node *)toNode;
 
 @end
-
-
