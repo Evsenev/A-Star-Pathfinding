@@ -1,4 +1,4 @@
-# A-Star-Pathfinding
+# A* Pathfinding (Objective-C)
 A* Pathfinding. My first implementation.
 
 Target:
