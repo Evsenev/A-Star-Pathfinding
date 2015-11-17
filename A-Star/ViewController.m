@@ -1,12 +1,3 @@
-//
-//  ViewController.m
-//  A-Star
-//
-//  Created by Богдан on 07.11.15.
-//  Copyright © 2015 Богдан. All rights reserved.
-//
-
-
 #import "ViewController.h"
 
 @interface ViewController ()
